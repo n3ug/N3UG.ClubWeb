@@ -14,10 +14,10 @@ N3UG.ClubWeb will be a customizable, easy to administer web site for clubs or or
 - mobile version (or responsive)
 - clean architecture
 - extensible
-- unit tests
-- ci/cd
-- container support
-- secure
+- testable (unit tests)
+- ci/cd (vsts/azure)
+- container support (docker)
+- secure (oAuth)
 
 ## Technology Stack ##
 - server
