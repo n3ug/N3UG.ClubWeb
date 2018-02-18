@@ -14,6 +14,10 @@ N3UG.ClubWeb will be a customizable, easy to administer web site for clubs or or
 - mobile version (or responsive)
 - clean architecture
 - extensible
+- unit tests
+- ci/cd
+- container support
+- secure
 
 ## Technology Stack ##
 - server
