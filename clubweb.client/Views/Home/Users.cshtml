@@ -1,0 +1,27 @@
+﻿@using clubweb.shared.models.user
+@model List<userViewModel>
+@{
+    ViewData["Title"] = "Users";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Full Name</th>
+        </tr>
+    </thead>
+    @foreach (userViewModel user in Model) {
+    <tr>
+        <td>@user.Id</td>
+        <td>@user.FirstName</td>
+        <td>@user.LastName</td>
+        <td>@user.FullName</td>
+    </tr>
+    }
+</table>
+
