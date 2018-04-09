@@ -39,13 +39,19 @@ namespace clubweb.client.Controllers
 
         public IActionResult Users()
         {
+            var users = new List<userViewModel>();
+
             // call server api to get list of users and
             // pass it to the view
             var client = new RestClient("http://localhost:52727/api");
             var request = new RestRequest("user", Method.GET);
 
-            var users = client.Execute<List<userViewModel>>(request).Data;
+            var response = client.Execute<List<userViewModel>>(request);
 
+            var _users = response.Data;
+            if (_users != null) {
+                users = _users;
+            }
 
             return View(users);
         }
