@@ -10,7 +10,11 @@ the project team can manage the work and plan accordingly.
 
 Before submitting a bug report, ensure that you have looked through the existing Issues for similar problems on the Issues page
 
-If you don't see amything that looks like the issue you want to submit, please copy the following template and submit a new issue
+If you don't see amything that looks like the issue you want to submit
+
+*please copy the following template and submit a new issue*
+
+==============================================================
 
 **Example Title**: Program crashes when deleting duplicated user records
 #### Issue or Error Description
@@ -39,6 +43,8 @@ Provide any information that may be useful for fixing the issue (Not required, b
 #### Screenshots
 
 If relevant, include any necessary screenshots that may help someone find and fix the issue...
+
+==============================================================
 
 ## Making changes
 
