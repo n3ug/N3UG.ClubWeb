@@ -53,6 +53,8 @@ your Pull Request the best chance of being accepted.
 6. **TEST** your code to make sure that not only is your code working, but that you haven't broken anything
 7. Commit and Push your changes to your local **MASTER** branch
 8. Create a **Pull Request** from your **local MASTER** branch to the **N3UG.Club.Web DEV** branch
+9. **IMPORTANT !!! MAKE SURE TO INCLUDE THE ISSUE NUMBER AT THE END OF YOUR TITLE** 
+e.g.:  Fixed error deleting duplicate users #14
 9. Make sure to add any comments that you think necessary that the reviewer should know when reviewing your PR
 
   NOTE: Every attempt will be made to review and accept or respond to your Pull Request within 72 hours, however
