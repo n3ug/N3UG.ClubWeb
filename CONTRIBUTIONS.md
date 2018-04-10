@@ -53,13 +53,14 @@ your Pull Request the best chance of being accepted.
 
 1. If you are addressing an existing issue, **make note of the issue #**
 2. Fork the N3UG.Club.Web **DEV** branch to your local repository
-3. Clone your local **MASTER** branch to your development machine
+2a. (OPTIONAL) Create a DEV branch for your local repository
+3. Clone your local **MASTER** branch (or dev branch) to your development machine
 4. Compile and run the Application to make sure everything is working as expected
 5. Make your code changes to add the enhancement or fix the bug
 6. **TEST** your code to make sure that not only is your code working, but that you haven't broken anything
-7. Commit and Push your changes to your local **MASTER** branch
-8. Create a **Pull Request** from your **local MASTER** branch to the **N3UG.Club.Web DEV** branch
-9. **IMPORTANT !!! MAKE SURE TO INCLUDE THE ISSUE NUMBER AT THE END OF YOUR TITLE** 
+7. Commit and Push your changes to your local **MASTER** (or dev) branch
+8. Create a **Pull Request** from your **local MASTER** branch (or dev) to the **N3UG.Club.Web DEV** branch
+9. **IMPORTANT !!! MAKE SURE TO INCLUDE THE ISSUE NUMBER from step 1 AT THE END OF YOUR TITLE** 
 e.g.:  Fixed error deleting duplicate users #14
 9. Make sure to add any comments that you think necessary that the reviewer should know when reviewing your PR
 
