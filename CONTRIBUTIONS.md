@@ -14,7 +14,7 @@ If you don't see amything that looks like the issue you want to submit
 
 *please copy the following template and submit a new issue*
 
-==============================================================
+============= START OF TEMPLATE =========================================
 
 **Example Title**: Program crashes when deleting duplicated user records
 #### Issue or Error Description
@@ -44,7 +44,7 @@ Provide any information that may be useful for fixing the issue (Not required, b
 
 If relevant, include any necessary screenshots that may help someone find and fix the issue...
 
-==============================================================
+============= END OF TEMPLATE ===========================================
 
 ## Making changes
 
