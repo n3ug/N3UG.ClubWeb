@@ -12,7 +12,7 @@ Before submitting a bug report, ensure that you have looked through the existing
 
 If you don't see amything that looks like the issue you want to submit, please copy the following template and submit a new issue
 
-**Example Title**: Program crashes when deleting duplicated loot containers
+**Example Title**: Program crashes when deleting duplicated user records
 #### Issue or Error Description
 
 Give a detailed description about the issue or error here...
